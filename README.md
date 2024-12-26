@@ -3,3 +3,5 @@ This is the repository of the submitted paper "Distortion Discriminator Helps Im
 In this repository, we release the sample waveforms we used as test set in the paper, as well as results processed by proposed models. 
 
 We also open-source the code we used for training, which describes the proposed Distortion Discriminator and other details. 
+
+Note: In the code, the Distortion Discriminator (DD) is named "ad" because we first called it artifact discriminator.
